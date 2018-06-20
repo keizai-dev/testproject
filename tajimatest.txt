@@ -1,2 +1,3 @@
 ﻿test
 sourcetreeで編集しました。
+add 変更をインデックスに登録する
